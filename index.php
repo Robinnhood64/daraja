@@ -97,7 +97,7 @@
                 </div>
              
                 <div class="col-12">
-                  <button style="display: none;" class="btn btn-success" name="submit" value="submit">Donate</button>
+                  <button type="success" class="btn btn-success" name="submit" value="submit">Pay Now</button>
                 </div>
 
               </form>
