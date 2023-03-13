@@ -87,10 +87,7 @@
 
             <form class="row g-3" action="./stk_initiate.php" method="POST">
             
-                <div class="col-12">
-                  <label for="inputAddress" class="form-label">Amount</label>
-                  <input type="text" class="form-control" name="amount" placeholder="Enter Amount">
-                </div>
+                
                 <div class="col-12">
                   <label for="inputAddress2" class="form-label" >Phone Number</label>
                   <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number">
@@ -99,6 +96,9 @@
                 <div class="col-12">
                   <button type="success" class="btn btn-success" name="submit" value="submit">Pay Now</button>
                 </div>
+
+                <button id="btnSave" style="display: none;" class="signin-none sign-up align-content-center" value="submit"><i class="fa fa-check"></i> Apply
+    Loan Now</button>
 
               </form>
               <!--bs5 input-->
