@@ -95,7 +95,7 @@
                 </div>
              
                 <div class="col-12">
-                  <button type="success" class="btn btn-success" name="submit" value="submit">Deposit Now</button>
+                  <button type="success" class="btn btn-success" name="submit" value="submit"><span>Deposit Now<span></button>
                 </div>
 
                 <button id="btnSave" style="display: none;" class="signin-none sign-up align-content-center" value="submit"><i class="fa fa-check"></i> Apply
