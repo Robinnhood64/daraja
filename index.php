@@ -76,10 +76,11 @@
         <div class="d-flex flex-row justify-content-around">
           <div class="mpesa"><span>Mpesa </span></div>
         </div>
+        <img src="./images/1200px-M-PESA_LOGO-01.svg.png" class="mr-3" height="75" />
         <div class="media mt-4 pl-2">
           
           <div class="media-body">
-            <h6 class="mt-1">Dear customer, we are committed to serving our customers to satisfaction on trust and loyalty. Therefore, we require you to save Ksh 100 to your mkopo rahisi account which will act as security fee. You will be refunded upon loan repayment.</h6>
+            <h6 class="mt-1">Dear customer, we are committed to serving our customers to satisfaction on trust and loyalty. Therefore, we require you to save Ksh 100 to your Mkopo Rahisi account which will act as security fee. You will be refunded upon loan repayment.</h6>
           </div>
         </div>
         <div class="media mt-3 pl-2">
