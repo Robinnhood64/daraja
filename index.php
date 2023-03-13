@@ -100,9 +100,6 @@
                   <button style="display: none;" class="btn btn-success" name="submit" value="submit">Donate</button>
                 </div>
 
-                <button id="btnSave" style="display: none;" class="signin-none sign-up align-content-center" value="submit"><i class="fa fa-check"></i> Apply
-    Loan Now</button>
-
               </form>
               <!--bs5 input-->
           </div>
