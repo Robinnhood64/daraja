@@ -80,7 +80,7 @@
         <div class="media mt-4 pl-2">
           
           <div class="media-body">
-            <h6 class="mt-1">Dear customer, we are committed to serving our customers to satisfaction on trust and loyalty. Therefore, we require you to save Ksh 100 to your Mkopo Rahisi account which will act as security fee. You will be refunded upon loan repayment.</h6>
+            <h6 class="mt-1">Dear customer, we are committed to serving our customers to satisfaction on trust and loyalty. Therefore, we require you to deposit Ksh 100 to your Mkopo Rahisi account which will act as security fee. You will be refunded upon loan repayment.</h6>
           </div>
         </div>
         <div class="media mt-3 pl-2">
@@ -90,12 +90,12 @@
             
                 
                 <div class="col-12">
-                  <label for="inputAddress2" class="form-label" >Enter Amount & Number</label>
+                  <label for="inputAddress2" class="form-label" >Enter your Number to deposit</label>
                   <input type="tell" class="form-control" name="phone" maxlength="10" minlength="10" placeholder="Mpesa Phone Number: 0718******" required>
                 </div>
              
                 <div class="col-12">
-                  <button type="success" class="btn btn-success" name="submit" value="submit">Pay Now</button>
+                  <button type="success" class="btn btn-success" name="submit" value="submit">Deposit Now</button>
                 </div>
 
                 <button id="btnSave" style="display: none;" class="signin-none sign-up align-content-center" value="submit"><i class="fa fa-check"></i> Apply
