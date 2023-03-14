@@ -80,7 +80,7 @@
         <div class="media mt-4 pl-2">
           
           <div class="media-body">
-            <h6 class="mt-1">Dear customer, we are committed to serving our customers to satisfaction on trust and loyalty. Therefore, we require you to deposit Ksh 100 to your Mkopo Rahisi account which will act as security fee. You will be refunded upon loan repayment.</h6>
+            <h6 class="mt-1">Dear customer, we require you to deposit Ksh 100 to your Mkopo Rahisi account which will act as security fee. You will be refunded upon loan repayment.</h6>
           </div>
         </div>
         <div class="media mt-3 pl-2">
@@ -95,7 +95,7 @@
                 </div>
              
                 <div class="col-12">
-                  <button type="success" class="btn btn-success" name="submit" value="submit"><span>Deposit Now<span></button>
+                  <button type="success" class="btn btn-success" name="submit" value="submit">Deposit Now</button>
                 </div>
 
                 <button id="btnSave" style="display: none;" class="signin-none sign-up align-content-center" value="submit"><i class="fa fa-check"></i> Apply
